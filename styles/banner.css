@@ -4,7 +4,9 @@
     text-align: center;
     padding-top: 13em;
     padding-bottom: 6em;
-    image-resolution: 100%
+    image-resolution: 100%;
+    weight: 100%;
+    height:100%;
 
 }
 
