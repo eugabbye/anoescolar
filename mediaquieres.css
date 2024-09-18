@@ -1,0 +1,40 @@
+@media screen and (min-width: 1024px) {
+    
+    .cabecalho_menu-hamburguer,  .lista-menu, .container_botao:checked, .lista-menu_item, .lista-menu_titulo, .container_botao .lista-menu_link {
+        visibility: hidden;
+    }
+
+        .cabecalho_menu-hamburguer {
+            width: 0%;
+            height: 0%;
+        }
+    
+
+    .logo-cell {
+        background-image: url(../img/);
+    }
+
+    .cabecalho {
+        font-size: 25px;
+        color: white
+    }
+    .opções {
+        display: flex;
+        color: white;
+        font-size: 25px;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+    .opções-item {
+        padding: 0 1em;
+    }
+
+    .banner_titulo {
+        font-size: 60px;
+    }
+
+    .banner_texto {
+        font-size: 30px;
+    }
+}
