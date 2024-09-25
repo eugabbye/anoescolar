@@ -1,0 +1,13 @@
+hr {
+    margin: 0;
+}
+
+.rodapé {
+    background-color: white;
+    padding: 1em;
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+}
+
