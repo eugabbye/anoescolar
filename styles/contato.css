@@ -7,7 +7,7 @@
 }
 
 .contato-titulo {
-    color: #255547;
+    color: rgb(52, 153, 114);
     font-weight: 700;
     font-size: 28px;
     padding-top: 1em;
@@ -24,7 +24,7 @@
 }
 
 .email {
-    background-color: #255547;
+    background-color: rgb(52, 153, 114);
     padding: 1em 2em;
     color: white;
     text-align: center;
