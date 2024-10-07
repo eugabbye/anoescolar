@@ -58,19 +58,6 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual você escolheria",
-        alternativas: [
-            {
-                texto: " Mataria seu pior inimigo ",
-                afirmacao: " Você será preso por um assasinato. ",
-            },
-            {
-                texto: " Roubaria sua professora mais odiada ",
-                afirmacao: " Você será preso por assalto em flagrante. "
-            }
-        ]
-    },
-    {
         enunciado: "Do que ela mais tem medo?",
         alternativas: [
             {
