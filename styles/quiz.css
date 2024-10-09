@@ -1,6 +1,6 @@
 :root{
     --cor-fundo: white;
-    --cor-principal: #5a94ca ;
+    --cor-principal: white ;
     --cor-secundaria: rgb(175, 0, 0); 
     --cor-destaque: #000000;
     --cor-texto: #000000;
@@ -38,6 +38,7 @@ button {
     padding: 15px;
     padding-left: 1em;
     transition: background-color 0.3s;
+    font-family: var(--fonte-principal);
 }
 
 button:hover{
