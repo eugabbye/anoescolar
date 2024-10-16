@@ -39,7 +39,7 @@
     }
 
     .organizar {
-        flex-direction: column;
+        display: table-column;
     }
 
     .email {
