@@ -39,7 +39,6 @@
     }
 
     .organizar {
-        display: flex;
         flex-direction: column;
     }
 }
