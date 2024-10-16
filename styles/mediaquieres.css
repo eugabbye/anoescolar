@@ -39,6 +39,6 @@
     }
 
     .organizar {
-        display: inline-block;
+        display: inline-flex
     }
 }
