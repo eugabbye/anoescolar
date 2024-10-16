@@ -43,11 +43,11 @@
     }
 
     .email {
-        padding: 1em 1em;
+        padding: 1em 2em;
         text-align: center;
         justify-content: center ;
         font-weight: 700;
         text-decoration: none;
-        font-size: 15px;
+        font-size: 20px;
     }
 }
