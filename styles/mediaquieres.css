@@ -41,4 +41,8 @@
     .organizar {
         flex-direction: column;
     }
+
+    .email {
+        font-size: 20px;
+    }
 }
