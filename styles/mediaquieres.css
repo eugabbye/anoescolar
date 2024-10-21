@@ -38,10 +38,6 @@
         font-size: 30px;
     }
 
-    .organizar {
-        display: table-column;
-    }
-
     .email {
         padding: 1em 2em;
         text-align: center;
@@ -49,11 +45,6 @@
         font-weight: 700;
         text-decoration: none;
         font-size: 20px;
-    }
-
-
-    .organizar, box, box__content, box__front, tipo_imagem, box__back, box-text {
-        columns: 1;
     }
 
         .banner {
