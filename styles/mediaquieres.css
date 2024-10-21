@@ -51,6 +51,13 @@
         font-size: 20px;
     }
 
+
+    .organizar, box, box__content, box__front, tipo_imagem, box__back, box-text {
+        visibility: hidden;
+    }
+
+    .box, box_content
+
         .banner {
             background-image: url("../img/bucetoides.png");
             color: white;
