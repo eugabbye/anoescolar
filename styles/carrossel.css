@@ -2,6 +2,8 @@
     background-color: rgb(226, 226, 226);
     color: black;
     text-align: center;
+    justify-content: center;
+    display: inline-block;
     }
     .carrossel-titulo {
         
