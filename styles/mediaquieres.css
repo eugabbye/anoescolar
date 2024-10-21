@@ -56,4 +56,20 @@
             padding: 23%;
         
         }
+
+        .carrossel-titulo {
+            font-size: 40px;
+        }
+    
+        .carrossel-sub {
+            font-size: 30px;
+            padding-top: 20px;
+        }
+    
+        .swiper-slide img {
+            width: 540px;
+            height: 540px;
+        }
+
+        
     }
