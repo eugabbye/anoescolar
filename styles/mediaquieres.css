@@ -1,4 +1,4 @@
-@media screen and (min-width: 844px) {
+@media screen and (max-width: 744px) {
     
     .cabecalho_menu-hamburguer,  .lista-menu, .container_botao:checked, .lista-menu_item, .lista-menu_titulo, .container_botao .lista-menu_link {
         visibility: hidden;
