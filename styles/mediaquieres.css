@@ -53,7 +53,7 @@
 
 
     .organizar, box, box__content, box__front, tipo_imagem, box__back, box-text {
-        visibility: hidden;
+        columns: 1;
     }
 
     .box, box_content
